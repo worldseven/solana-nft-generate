@@ -9,7 +9,7 @@ Includes:
 - Solana wallet adapter
 - Canvas
 
-![screenshot](./screenshot.jpg)
+![screenshot](./screenshot.png)
 
 ## Run
 
