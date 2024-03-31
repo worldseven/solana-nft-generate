@@ -11,7 +11,6 @@ import {
     getSolflareWallet,
     getSolletExtensionWallet,
     getSolletWallet,
-    getTorusWallet,
 } from "@solana/wallet-adapter-wallets";
 import { clusterApiUrl } from "@solana/web3.js";
 
